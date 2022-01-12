@@ -1,6 +1,6 @@
-token=process.env.token
-owner=354716386716811264
-prefix==
-game=Alpha Bots!
+token=OTMwNzIxMTE1Njc5MTEzMjM2.Yd5_lQ.gTKdCCuaDaoCeumYlORtavgT6Yk
+owner=754961855101009921
+prefix=ze
+game=Escape.
 stayinchannel=true
 songinstatus=true
